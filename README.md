@@ -1,1 +1,1 @@
-# minigfoRmula
+# minigformula
