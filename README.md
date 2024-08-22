@@ -1,1 +1,1 @@
-# mini_gfoRmula
+# minigfoRmula
